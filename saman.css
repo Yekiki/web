@@ -1,0 +1,7 @@
+@font-face {
+    font-family: myFirstFont;
+    src: url(vazir.woff);
+  }
+  div {
+    font-family: myFirstFont;
+  }
